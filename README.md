@@ -31,7 +31,7 @@ For more details, visit our [project page](https://sites.google.com/view/lighttr
 
 ## News
 
-\[2025.03.16\] We release the checkpoint of QwQ-32B-LightTransfer. See [model card](https://arxiv.org/abs/2403.17297) for [details](https://huggingface.co/cxdu/QwQ-32B-LightTransfer).
+\[2025.03.16\] We release the checkpoint of QwQ-32B-LightTransfer. See [model card](https://huggingface.co/cxdu/QwQ-32B-LightTransfer) for details.
 
 ## LightTranfer-Train
 
