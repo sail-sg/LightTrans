@@ -44,7 +44,7 @@ We have evaluated QwQ-LightTransfer on several long reasoning generation benchma
 | Method         | Math-OAI | AIME24 | AIME25 | GSM8K |
 |---------------|---------|--------|--------|-------|
 | o1-preview    | 85.5    | 44.6   | -      | -     |
-| OwO-STILL     | 90.2    | 46.7   | 33.3   | 95.6  |
+| QwQ-STILL     | 90.2    | 46.7   | 33.3   | 95.6  |
 | LongGen       | 78.2    | 16.7   | -      | 95.4  |
 | LightTransfer | 90.7    | 53.3   | 40.0   | 95.5  |
 
